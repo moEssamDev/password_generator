@@ -3,7 +3,7 @@ const copyIcon = document.querySelector(".input-box span");
 const passIndicator = document.querySelector(".pass-indicator");
 const lengthSlider = document.querySelector(".pass-length input");
 const options = document.querySelectorAll(".option input");
-const generateBtn = document.querySelector(".generateBtn");
+const generateBtn = document.querySelector(".generate-btn");
 
 const characters = {
   lowercase: "abcdefghijklmnopqrstuvwxyz",
